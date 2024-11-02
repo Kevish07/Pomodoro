@@ -4,7 +4,7 @@
 let workTitle = document.getElementById('work');
 let breakTitle = document.getElementById('break');
 
-let workTime = 25;
+let workTime = 30;
 let breakTime = 5;
 
 let seconds = "00"
